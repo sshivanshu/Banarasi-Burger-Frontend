@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import me from "../../assets/Shivu.jpg";
+import me from "../../assets/founder.webp";
 const Founder = () => {
   const options = {
     initial: {
@@ -20,7 +20,7 @@ const Founder = () => {
         <h3>Shivanshu Singh</h3>
 
         <p>
-          Hey, Everyone I am Shivanshu Singh, the founder of MBA Burger Wala.
+          Hey, Everyone I am Shivanshu Singh, the founder of Banarasi Burger.
           <br />
           Our aim is to create the most tasty burger on planet.
         </p>

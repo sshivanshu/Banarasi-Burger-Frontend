@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { RiFindReplaceLine } from "react-icons/ri";
-import me from "../../assets/Shivu.jpg";
+import me from "../../assets/founder.webp";
 
 const About = () => {
   return (
@@ -10,10 +10,9 @@ const About = () => {
         <h1>About Us</h1>
 
         <article>
-          <h4>MBA Burger Wala</h4>
+          <h4>Banarasi Burger</h4>
           <p>
-            We are MBA Burger Wala. The place for most tasty burgers on the
-            enitre earth.
+          "Banaras in a Bun: Flavorful Traditions, Burger-Style!"
           </p>
 
           <p>
@@ -35,8 +34,7 @@ const About = () => {
             </div>
 
             <p>
-              I am Shivanshu Singh, the founder of MBA Burger Wala. Affiliated to
-              God Taste...
+              I am Shivanshu Singh, the founder of Banarasi Burger.
             </p>
           </article>
         </div>
